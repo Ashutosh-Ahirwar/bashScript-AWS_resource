@@ -29,12 +29,12 @@ This script lists various AWS resources in a specified AWS region.
 
 ```bash
 ./script.sh <region> <service_name>
-
+```
 ## Example
 
 ```bash
 ./script.sh ap-south-1 EC2
-
+```
 ## Requirements
 
 - AWS CLI installed and configured
